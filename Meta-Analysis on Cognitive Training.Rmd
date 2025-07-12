@@ -7,13 +7,13 @@ output:
     fig_height: 6
     fig_caption: true
     reference_docx: template.docx
+  pdf_document:
+    toc: true
   html_document:
     toc: true
     fig_width: 10
     fig_height: 6
     fig_caption: true
-  pdf_document:
-    toc: true
 mainfont: Times New Roman
 editor_options:
   chunk_output_type: inline
