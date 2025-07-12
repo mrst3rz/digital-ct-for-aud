@@ -1,0 +1,299 @@
+---
+references:
+- id: grieder2022
+  accessed: "22:03:12"
+  author:
+  - family: Grieder
+    given: Matthias
+  - family: Soravia
+    given: Leila M.
+  - family: Tschuemperlin
+    given: Raphaela M.
+  - family: Batschelet
+    given: Hallie M.
+  - family: Federspiel
+    given: Andrea
+  - family: Schwab
+    given: Simon
+  - family: Moggi
+    given: Franz
+  - family: Stein
+    given: Maria
+  DOI: 10.31234/osf.io/h6t7f
+  issued: 2022
+  key: WGFE3BDG
+  language: en
+  libraryID: 1
+  providerKey: Zotero
+  rights: "https://creativecommons.org/licenses/by/4.0/legalcode"
+  source: DOI.org (Crossref)
+  title: Right inferior frontal activation during alcohol-specific
+    inhibition increases with craving and predicts drinking outcome in
+    alcohol use disorder
+  type: article-journal
+  URL: "https://osf.io/h6t7f"
+- id: stein2023
+  accessed: "12:57:07"
+  author:
+  - family: Stein
+    given: Maria
+  - family: Soravia
+    given: Leila M.
+  - family: Tschuemperlin
+    given: Raphaela M.
+  - family: Batschelet
+    given: Hallie M.
+  - family: Jaeger
+    given: Joshua
+  - family: Roesner
+    given: Susanne
+  - family: Keller
+    given: Anne
+  - family: Gomez Penedo
+    given: Juan Martin
+  - family: Wiers
+    given: Reinout W.
+  - family: Moggi
+    given: Franz
+  container-title: Addiction
+  container-title-short: Addiction
+  DOI: 10.1111/add.16104
+  ISSN: 0965-2140, 1360-0443
+  issue: 4
+  issued: 2023-04
+  key: C86DKWXI
+  language: en
+  libraryID: 1
+  page: 646-657
+  providerKey: Zotero
+  source: DOI.org (Crossref)
+  title: "Alcohol‐specific inhibition training in patients with alcohol
+    use disorder: a multi‐centre, double‐blind randomized clinical trial
+    examining drinking outcome and working mechanisms"
+  title-short: Alcohol‐specific inhibition training in patients with
+    alcohol use disorder
+  type: article-journal
+  URL: "https://onlinelibrary.wiley.com/doi/10.1111/add.16104"
+  volume: 118
+- id: chinn2000
+  accessed: "09:37:34"
+  author:
+  - family: Chinn
+    given: Susan
+  container-title: Statistics in Medicine
+  container-title-short: Statist. Med.
+  DOI: "10.1002/1097-0258(20001130)19:22\\<3127::AID-SIM784\\>3.0.CO;2-M"
+  ISSN: 0277-6715, 1097-0258
+  issue: 22
+  issued: 2000-11-30
+  key: PV78RKZ9
+  language: en
+  libraryID: 1
+  page: 3127-3131
+  providerKey: Zotero
+  rights: "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  source: DOI.org (Crossref)
+  title: A simple method for converting an odds ratio to effect size for
+    use in meta-analysis
+  type: article-journal
+  URL: "https://onlinelibrary.wiley.com/doi/10.1002/1097-0258(20001130)19:22\\<3127::AID-SIM784\\>3.0.CO;2-M"
+  volume: 19
+- id: sterne2019
+  accessed: "17:12:33"
+  author:
+  - family: Sterne
+    given: Jonathan A C
+  - family: Savović
+    given: Jelena
+  - family: Page
+    given: Matthew J
+  - family: Elbers
+    given: Roy G
+  - family: Blencowe
+    given: Natalie S
+  - family: Boutron
+    given: Isabelle
+  - family: Cates
+    given: Christopher J
+  - family: Cheng
+    given: Hung-Yuan
+  - family: Corbett
+    given: Mark S
+  - family: Eldridge
+    given: Sandra M
+  - family: Emberson
+    given: Jonathan R
+  - family: Hernán
+    given: Miguel A
+  - family: Hopewell
+    given: Sally
+  - family: Hróbjartsson
+    given: Asbjørn
+  - family: Junqueira
+    given: Daniela R
+  - family: Jüni
+    given: Peter
+  - family: Kirkham
+    given: Jamie J
+  - family: Lasserson
+    given: Toby
+  - family: Li
+    given: Tianjing
+  - family: McAleenan
+    given: Alexandra
+  - family: Reeves
+    given: Barnaby C
+  - family: Shepperd
+    given: Sasha
+  - family: Shrier
+    given: Ian
+  - family: Stewart
+    given: Lesley A
+  - family: Tilling
+    given: Kate
+  - family: White
+    given: Ian R
+  - family: Whiting
+    given: Penny F
+  - family: Higgins
+    given: Julian P T
+  container-title: British Medical Journal
+  container-title-short: Br. Med. J.
+  DOI: 10.1136/bmj.l4898
+  ISSN: 0959-8138, 1756-1833
+  issue: 14898
+  issued: 2019
+  key: R6JK6JFZ
+  language: English
+  libraryID: 1
+  page: 1-8
+  providerKey: Zotero
+  source: DOI.org (Crossref)
+  title: "RoB 2: a revised tool for assessing risk of bias in randomised
+    trials"
+  title-short: RoB 2
+  type: article-journal
+  URL: "https://www.bmj.com/lookup/doi/10.1136/bmj.l4898"
+  volume: 366
+- id: balduzzi2019
+  author:
+  - family: Balduzzi
+    given: Sara
+  - family: Rücker
+    given: Gerta
+  - family: Schwarzer
+    given: Guido
+  container-title: Evidence-Based Mental Health
+  container-title-short: Evid Based Ment Health
+  DOI: 10.1136/ebmental-2019-300117
+  ISSN: 1468-960X
+  issue: 4
+  issued: 2019-11
+  key: JFJ3WDC7
+  language: eng
+  libraryID: 1
+  page: 153-160
+  PMCID: PMC10231495
+  PMID: 31563865
+  providerKey: Zotero
+  source: PubMed
+  title: "How to perform a meta-analysis with R: a practical tutorial"
+  title-short: How to perform a meta-analysis with R
+  type: article-journal
+  volume: 22
+- id: rodriguez-sanchezaut2025
+  accessed: "21:22:11"
+  author:
+  - family: Rodriguez-Sanchez \[aut
+    given: Francisco
+  - family: Jackson
+    given: Connor P.
+  - family: Hutchins
+    given: Shaurita D.
+  - family: Clawson
+    given: James M.
+  issued: 2025-03-14
+  key: 9F9JYH88
+  libraryID: 1
+  providerKey: Zotero
+  rights: MIT + file LICENSE
+  source: R-Packages
+  title: "grateful: Facilitate Citation of R Packages"
+  title-short: grateful
+  type: book
+  URL: "https://cran.r-project.org/web/packages/grateful/index.html"
+  versionNumber: 0.2.11
+- id: garfield2022
+  accessed: "00:17:40"
+  author:
+  - family: Garfield
+    given: Joshua B.B.
+  - family: Piccoli
+    given: Lara R.
+  - family: Whelan
+    given: Danielle
+  - family: Staiger
+    given: Petra K.
+  - family: Reynolds
+    given: John
+  - family: Piercy
+    given: Hugh
+  - family: Lubman
+    given: Dan I.
+  - family: Verdejo-Garcia
+    given: Antonio
+  - family: Manning
+    given: Victoria
+  container-title: Drug and Alcohol Dependence
+  container-title-short: Drug and Alcohol Dependence
+  DOI: 10.1016/j.drugalcdep.2022.109621
+  ISSN: 03768716
+  issued: 2022-10
+  key: MTCCLJ3C
+  language: en
+  libraryID: 1
+  page: 109621
+  providerKey: Zotero
+  source: DOI.org (Crossref)
+  title: The effect of approach bias modification during alcohol
+    withdrawal treatment on craving, and its relationship to
+    post-treatment alcohol use in a randomised controlled trial
+  type: article-journal
+  URL: "https://linkinghub.elsevier.com/retrieve/pii/S0376871622003581"
+  volume: 239
+- id: manning2021
+  accessed: "23:51:53"
+  author:
+  - family: Manning
+    given: Victoria
+  - family: Piercy
+    given: Hugh
+  - family: Garfield
+    given: Joshua Benjamin Bernard
+  - family: Clark
+    given: Stuart Gregory
+  - family: Andrabi
+    given: Mah Noor
+  - family: Lubman
+    given: Dan Ian
+  container-title: JMIR mHealth and uHealth
+  container-title-short: JMIR Mhealth Uhealth
+  DOI: 10.2196/31353
+  ISSN: 2291-5222
+  issue: 12
+  issued: 2021-12-10
+  key: WCJCF7LF
+  language: en
+  libraryID: 1
+  page: e31353
+  providerKey: Zotero
+  source: DOI.org (Crossref)
+  title: "A Personalized Approach Bias Modification Smartphone App
+    (\"SWiPE\") to Reduce Alcohol Use: Open-Label Feasibility,
+    Acceptability, and Preliminary Effectiveness Study"
+  title-short: A Personalized Approach Bias Modification Smartphone App
+    ("SWiPE") to Reduce Alcohol Use
+  type: article-journal
+  URL: "https://mhealth.jmir.org/2021/12/e31353"
+  volume: 9
+...
