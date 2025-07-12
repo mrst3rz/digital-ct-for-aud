@@ -25,7 +25,7 @@ bibliography:
 
 # 1. Introduction
 
-This R Markdown report contains the entire script used for the meta-analysis on digital cognitive training among patients with alcohol use disorder.
+This R Markdown report contains the entire script used for the meta-analysis on digital cognitive training for patients with alcohol use disorder.
 
 It is build as an R Environment (`renv`) for managing R package versions and maximising the reproducibility for future analyses, and all package versions are stored in the renv.lock-file.
 
