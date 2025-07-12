@@ -37,6 +37,8 @@ All the effect sizes are calculated using the `meta` package, and forest and fun
 The `grid` package, is used to add additional statistics to the plots that are not standard for the `meta` package.
 Finally, to document all the packages used and the corresponding versions, we used the `grateful` package to create a summary and a list of references for each of the used packages in this analysis report.
 
+The full R analysis environment, including all scripts and supporting files, is available in the following public GitHub repository: <https://github.com/mrst3rz/digital-ct-for-aud>
+
 ## 1.1 Loading and installing the packages
 
 To prepare the R environment for the analyses, we first need to install the required packages.
