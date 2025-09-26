@@ -1,4 +1,4 @@
-https://zenodo.org/badge/1018696552.svg
+<a href="https://doi.org/10.5281/zenodo.17206606"><img src="https://zenodo.org/badge/1018696552.svg" alt="DOI"></a>
 
 # R Analyses on Digital Cognitive Training
 
