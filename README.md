@@ -1,3 +1,4 @@
+https://zenodo.org/badge/1018696552.svg
 
 # R Analyses on Digital Cognitive Training
 
